@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.BSlabel{
+  display: flex;
+  justify-content: center;
+}
+
+.BS{
+  margin:20px;
+}
+
+.controll{
+  font-size: 20px;
+  display:flex;
+  justify-content: center;
+}
+
+
+#time-left{
+  font-size:20px;
+  margin-bottom: 10px;
+}
+
+#time{
+  border:3px solid white;
+  width:200px;
+  margin:auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
